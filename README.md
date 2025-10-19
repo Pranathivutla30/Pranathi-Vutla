@@ -3,7 +3,7 @@
   <img src="https://github.com/Pranathivutla30/Pranathivutla30/assets/placeholder-banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">🌸 Lakshmi Pranathi Vutla 🌸</h1>
+<h1 align="center"> Lakshmi Pranathi Vutla </h1>
 
 <p align="center">
   <b>Passionate AI Innovator</b> | Grad CS Student @ <b>UMass Boston</b> | Co-founder of <b>AI Fantastic</b><br>
@@ -36,21 +36,21 @@ Currently exploring **Recommendation Systems with Explainable AI**, experimentin
 ---
 
 ### ☀️ What I’m Working On
-- 🧠 Building **explainable recommendation systems** that blend reasoning with personalization.  
-- 🌐 Developing **IoT-driven full-stack prototypes** that make AI practical.  
-- 🌱 Expanding **AI Fantastic**, a student-led research & creativity hub for intelligent systems.  
-- 🤖 Creating **agent-based tools** that help people learn and interact more intuitively.
+-  Building **explainable recommendation systems** that blend reasoning with personalization.  
+-  Developing **IoT-driven full-stack prototypes** that make AI practical.  
+-  Expanding **AI Fantastic**, a student-led research & creativity hub for intelligent systems.  
+-  Creating **agent-based tools** that help people learn and interact more intuitively.
 
 ---
 
 ### 🎯 Achievements & Projects
-| 🌟 Project | 📝 Description |
+| 🌟 Project | 🧩 Description |
 |------------|----------------|
-| 🧩 **Knowledge Distillation in Image Classification** | Teacher–student CNNs combining real + synthetic data. |
-| 🎨 **AI for All (Image Colorization)** | Reviving grayscale images using deep learning. |
-| 🧠 **Explainable Movie Recommender System** | Hybrid LightFM + NCF with LIME & SHAP insights. |
-| ⚡ **IoT + Cybersecurity Projects** | Automatic power-off and energy-aware smart plugs. |
-| 🌈 **Graphics & WebGL Experiments** | Visual art meets code — WebGPU demos and 3D scenes. |
+|  **Knowledge Distillation in Image Classification** | Teacher–student CNNs combining real + synthetic data. |
+|  **AI for All (Image Colorization)** | Reviving grayscale images using deep learning. |
+|  **Explainable Movie Recommender System** | Hybrid LightFM + NCF with LIME & SHAP insights. |
+|  **IoT + Cybersecurity Projects** | Automatic power-off and energy-aware smart plugs. |
+|  **Graphics & WebGL Experiments** | Visual art meets code — WebGPU demos and 3D scenes. |
 
 ---
 
@@ -62,7 +62,7 @@ Currently exploring **Recommendation Systems with Explainable AI**, experimentin
 
 ---
 
-### 🌺 Connect & Explore
+###  Connect & Explore
 <p align="center">
   <a href="https://github.com/Pranathivutla30"><img src="https://img.shields.io/badge/GitHub-Pranathivutla30-181717?style=flat&logo=github"/></a>
   <a href="https://www.linkedin.com/in/lakshmipranathivutla/"><img src="https://img.shields.io/badge/LinkedIn-Lakshmi Pranathi Vutla-0A66C2?style=flat&logo=linkedin"/></a>
