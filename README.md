@@ -1,10 +1,8 @@
-# Pranathi-Vutla
-Passionate AI innovator and grad CS student at UMass Boston. Co-founder of AI Fantastic, building Explainable AI recommendation systems, IoT solutions, full-stack apps, and intelligent agents focused on creativity, trust, and real-world impact
 # Lakshmi Pranathi Vutla   
-Active graduate student @ UMass Boston • Co-founder of **AI Fantastic** • Builder of smart, creative systems that connect **AI + IoT + Full-Stack + Agents**  
+Passionate AI innovator and grad CS student @ UMass Boston • Co-founder of **AI Fantastic** • Builder of smart, creative systems that connect **AI + IoT + Full-Stack + AI Agents**  
 
-I’m currently exploring **Recommendation Systems with Explainable AI**, developing projects through **AI Fantastic**, and experimenting with **interactive WebGL graphics** and **autonomous agents**.  
-Curious mind, aesthetic coder — I love turning ideas into experiences that feel alive ✨  
+I’m currently exploring **Recommendation Systems with Explainable AI**, developing projects through **AI Fantastic**, and experimenting with **interactive WebGL graphics** and **Ai agents** , working as a TA for **Intermediate Computing with Data Structures**  .  
+Curious mind, aesthetic coder , ui/ux designer , Idea generator  — I love turning ideas into experiences that feel alive ✨  
 
 ---
 
@@ -21,7 +19,7 @@ Curious mind, aesthetic coder — I love turning ideas into experiences that fee
 - 🎨 **AI for All (Image Colorization)** — reviving grayscale images using deep learning.  
 - 🌀 **Explainable Movie Recommender System** — hybrid LightFM + NCF with LIME & SHAP insights.  
 - 💡 **IoT + Cybersecurity Projects** — automatic power-off and energy-aware smart plugs.  
-- 🌈 **Graphics & WebGL Experiments** — visual art meets code: WebGPU demos and 3D scenes.
+-  **Graphics & WebGL Experiments** — visual art meets code: WebGPU demos and 3D scenes.
 
 ---
 
