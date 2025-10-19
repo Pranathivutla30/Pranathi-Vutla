@@ -2,6 +2,7 @@
 Passionate AI innovator and grad CS student @ UMass Boston • Co-founder of **AI Fantastic** • Builder of smart, creative systems that connect **AI + IoT + Full-Stack + AI Agents**  
 
 I’m currently exploring **Recommendation Systems with Explainable AI**, developing projects through **AI Fantastic**, and experimenting with **interactive WebGL graphics** and **Ai agents** , working as a TA for **Intermediate Computing with Data Structures**  .  
+
 Curious mind, aesthetic coder , ui/ux designer , Idea generator  — I love turning ideas into experiences that feel alive ✨  
 
 ---
