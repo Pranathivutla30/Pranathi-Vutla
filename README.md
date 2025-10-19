@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Pranathivutla30/Pranathivutla30/assets/banner.png" alt="banner" width="100%" />
-</p>
-
 <h1 align="center"> Lakshmi Pranathi Vutla </h1>
 
 <p align="center">
@@ -59,7 +55,7 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 
 ---
 
-### ⚡ GitHub Stats (2025)
+### ⚡ GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranathivutla30&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_rank=false" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathivutla30&layout=compact&theme=tokyonight" height="165">
