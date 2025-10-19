@@ -1,6 +1,6 @@
 # Pranathi-Vutla
 Passionate AI innovator and grad CS student at UMass Boston. Co-founder of AI Fantastic, building Explainable AI recommendation systems, IoT solutions, full-stack apps, and intelligent agents focused on creativity, trust, and real-world impact
-# Lakshmi Pranathi Vutla 🌸  
+# Lakshmi Pranathi Vutla   
 Active graduate student @ UMass Boston • Co-founder of **AI Fantastic** • Builder of smart, creative systems that connect **AI + IoT + Full-Stack + Agents**  
 
 I’m currently exploring **Recommendation Systems with Explainable AI**, developing projects through **AI Fantastic**, and experimenting with **interactive WebGL graphics** and **autonomous agents**.  
@@ -33,7 +33,7 @@ Curious mind, aesthetic coder — I love turning ideas into experiences that fee
 
 ---
 
-### 🌸 Featured Work
+###  Featured Work
 | Project | Description |
 |----------|--------------|
 | **Causal-Aware NCF** | Integrating IRM + Counterfactuals + Adversarial Debiasing for robust, fair recommendations. |
