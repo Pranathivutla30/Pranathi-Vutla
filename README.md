@@ -49,4 +49,4 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 
 ---
 
-📍 Boston, MA | [GitHub Portfolio](https://github.com/Pranathivutla30) | [AI Fantastic Projects](https://github.com/Pranathivutla30?tab=repositories)
+📍 Boston, MA | [GitHub Portfolio](https://github.com/Pranathivutla30) |
