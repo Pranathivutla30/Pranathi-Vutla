@@ -1,6 +1,5 @@
-<!-- Banner (optional, you can upload your own to the repo and replace link below) -->
 <p align="center">
-  <img src="https://github.com/Pranathivutla30/Pranathivutla30/assets/placeholder-banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/Pranathivutla30/Pranathivutla30/assets/banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center"> Lakshmi Pranathi Vutla </h1>
@@ -18,6 +17,12 @@ Currently exploring **Recommendation Systems with Explainable AI**, experimentin
 
 💡 Curious mind • Aesthetic coder • UI/UX designer • Idea generator  
 *I love turning ideas into experiences that feel alive.*
+
+---
+
+### 🌱 A Little About Me
+I love connecting logic with aesthetics — whether that’s designing neural systems that explain themselves, creating intuitive visual interfaces, or prototyping smart IoT agents.  
+Co-founding **AI Fantastic** has made me believe AI research can be fun, social, and beautifully interactive 🌼  
 
 ---
 
@@ -44,7 +49,7 @@ Currently exploring **Recommendation Systems with Explainable AI**, experimentin
 ---
 
 ### 🎯 Achievements & Projects
-| 🌟 Project | 🧩 Description |
+| 🌟 Project | 📝 Description |
 |------------|----------------|
 |  **Knowledge Distillation in Image Classification** | Teacher–student CNNs combining real + synthetic data. |
 |  **AI for All (Image Colorization)** | Reviving grayscale images using deep learning. |
@@ -54,19 +59,27 @@ Currently exploring **Recommendation Systems with Explainable AI**, experimentin
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ GitHub Stats (2025)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranathivutla30&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranathivutla30&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_rank=false" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathivutla30&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
-
-###  Connect & Explore
+### 🤖 Connect & Explore
 <p align="center">
-  <a href="https://github.com/Pranathivutla30"><img src="https://img.shields.io/badge/GitHub-Pranathivutla30-181717?style=flat&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/lakshmipranathivutla/"><img src="https://img.shields.io/badge/LinkedIn-Lakshmi Pranathi Vutla-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="https://pranathivutla30.github.io/"><img src="https://img.shields.io/badge/Portfolio-Site-ff69b4?style=flat&logo=react"/></a>
+  <a href="https://github.com/Pranathivutla30">
+    <img src="https://img.shields.io/badge/GitHub-Pranathivutla30-2E2E2E?style=for-the-badge&logo=github&logoColor=D8B4E2"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lakshmipranathivutla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lakshmi Pranathi Vutla-5B4B8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://pranathivutla30.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Site-2E2E2E?style=for-the-badge&logo=react&logoColor=D8B4E2"/>
+  </a>
 </p>
 
-<p align="center">✨ <b>“I create intelligent systems that feel human.”</b> ✨</p>
+<p align="center">
+  ✨ <b style="color:#5B4B8A;">“I create intelligent systems that feel human.”</b> ✨
+</p>
+
