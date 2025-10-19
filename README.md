@@ -67,7 +67,7 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
   <a href="https://github.com/Pranathivutla30">
     <img src="https://img.shields.io/badge/GitHub-Pranathivutla30-2E2E2E?style=for-the-badge&logo=github&logoColor=D8B4E2"/>
   </a>
-  <a href="https://www.linkedin.com/in/lakshmipranathivutla/">
+  <a href="https://www.linkedin.com/in/lakshmi-pranathi-vutla30/">
     <img src="https://img.shields.io/badge/LinkedIn-Lakshmi Pranathi Vutla-5B4B8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://pranathivutla30.github.io/">
